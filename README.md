@@ -1,4 +1,11 @@
 # Ex: 10 Option Menu
+## PROGRAM:
+/*
+Program to print the text “optionmenu”.
+Developed by: JASHWANA FATHIMA S
+Registration Number : 212222040059
+Date : 21.10.2024
+*/
 
 ## AIM:
 To create a option menu to display menu items using Android Studio.
@@ -20,13 +27,6 @@ Step 5: Design layout in activity_main.xml.
 Step 6: Display message give in MainActivity file.
 
 Step 7: Save and run the application.
-
-## PROGRAM:
-/*
-Program to print the text “optionmenu”.
-Developed by: JASHWANA FATHIMA S
-Registration Number : 212222040059
-*/
 
 ### activity_main.xml
 ```
