@@ -1,11 +1,12 @@
 # Ex: 10 Option Menu
 ## PROGRAM:
-/*
 Program to print the text “optionmenu”.
+
 Developed by: JASHWANA FATHIMA S
+
 Registration Number : 212222040059
+
 Date : 21.10.2024
-*/
 
 ## AIM:
 To create a option menu to display menu items using Android Studio.
